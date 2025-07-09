@@ -1,39 +1,56 @@
 🗣️ Text to Speech App (React Native)
+
+
 A simple and intuitive Text to Speech (TTS) mobile application built using React Native. This app allows users to enter any text and convert it into speech using the device's built-in text-to-speech functionality.
+
 
 🚀 Features
 
-🔤 Convert typed text into natural-sounding speech
 
-🎛️ Adjustable speech rate and pitch
+* 🔤 Convert typed text into natural-sounding speech
 
-🌐 Supports multiple languages (based on device capabilities)
+* 🎛️ Adjustable speech rate and pitch
 
-💡 Clean and user-friendly UI
+* 🌐 Supports multiple languages (based on device capabilities)
 
-📱 Works on both Android and iOS
+* 💡 Clean and user-friendly UI
+
+* 📱 Works on both Android and iOS
+
+  
 
 🛠️ Tech Stack
 
-React Native
 
-Expo
+* React Native
 
-expo-speech (for TTS functionality)
+* Expo
 
-React Hooks for state management
+* expo-speech (for TTS functionality)
+
+* React Hooks for state management
+
 
 📦 Installation
 
-git clone https://github.com/your-username/text-to-speech-app.git
-cd text-to-speech-app
-npm install
-expo start
+
+* git clone https://github.com/MahaveerSukhani/Text_To_Speech_App.git
+
+* cd Text_To_Speech_App
+
+* npm install
+
+* expo start
+
 
 📷 Screenshots
 
+
 <img src="https://user-images.githubusercontent.com/61349423/86529861-d0475700-bed1-11ea-845e-b1b2a84554ee.png" width="260" height="460">
 
+
+
 📄 License
+
 
 This project is open source and available under the MIT License.
