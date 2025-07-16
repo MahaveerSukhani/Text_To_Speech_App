@@ -1,5 +1,5 @@
 🗣️ Text to Speech App (React Native)
-
+ 
 
 A simple and intuitive Text to Speech (TTS) mobile application built using React Native. This app allows users to enter any text and convert it into speech using the device's built-in text-to-speech functionality.
 
